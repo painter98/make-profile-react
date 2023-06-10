@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+  color:white;
+}
+
+.container{
+  display:flex;
+  gap:2vw;
+  padding:4vw;
+  width:50vw;
+  border:1px solid white;
+}
+
+input{
+  padding:1vw;
+  color:white;
+  background-color: black;
+  box-shadow: none;
+  width:46vw;
+}
+
+input:focus{
+  border-bottom:1px solid white;
+  outline:none;
+  box-shadow: none;
+}
