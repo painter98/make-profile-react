@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/make-profile-react/static/css/main.2c5253ed.css",
+    "main.js": "/make-profile-react/static/js/main.a9103901.js",
+    "index.html": "/make-profile-react/index.html",
+    "main.2c5253ed.css.map": "/make-profile-react/static/css/main.2c5253ed.css.map",
+    "main.a9103901.js.map": "/make-profile-react/static/js/main.a9103901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c5253ed.css",
+    "static/js/main.a9103901.js"
+  ]
+}
